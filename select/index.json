@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "恋の押し売り",
+  "base_artist": "星川サラ",
+  "createdAt": "2025-12-03T15:45:44.443326Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋の押し売り",
+      "artist": "星川サラ",
+      "has_synced": true,
+      "path": "select/01_恋の押し売り_星川サラ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋の押し売り",
+      "artist": "星川サラ",
+      "has_synced": false,
+      "path": "select/pl_01_恋の押し売り_星川サラ.txt"
+    }
+  ]
+}
